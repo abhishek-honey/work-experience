@@ -12,19 +12,29 @@ Bangalore, India August 2018 – Present
 ### [Datami](https://www.datami.com/) 
 * Have delivered multiple features at DataMi in the [Airtel TV](https://play.google.com/store/apps/details?id=tv.africa.streaming&hl=en_US&gl=US) streaming project for 10 African countries.
 * End to end development of features like:
-  *  Restriction of concurrent user login for multiple device and concurrent playing the content on multiple devices.
-  *  Sending login OTP to all the 10
-countries using [SMPP](https://smpp.org/) protocol 
-  * Data Bundle that can be purchased by the [Airtel TV](https://play.google.com/store/apps/details?id=tv.africa.streaming&hl=en_US&gl=US) user at discounted rate. 
-  * Content like dislike 
-  * Internationalization of [Airtel TV](https://play.google.com/store/apps/details?id=tv.africa.streaming&hl=en_US&gl=US) 
-  * Cccepted privacy policy tracking for a user
-  * Reports schedular for stakeholders.
-  * User Whitelisting for [Airtel TV](https://play.google.com/store/apps/details?id=tv.africa.streaming&hl=en_US&gl=US).
-  * User Login flow for [Rwanda](https://en.wikipedia.org/wiki/Rwanda).
-* End to end integration of [Erosnow](https://erosnow.com/) with [Airtel TV](https://play.google.com/store/apps/details?id=tv.africa.streaming&hl=en_US&gl=US), and have delivered enhancements related to content providers like Silverrock, [Docubay](https://www.docubay.com/), [Vubiquity](https://www.vubiquity.com/).
-* Tracked the time taken by all the [Airtel TV](https://play.google.com/store/apps/details?id=tv.africa.streaming&hl=en_US&gl=US) Backend APIs, and improved the response time for all the APIs
-* Have done backend dev environment migration; servers, databases and all the Backend services.
+  *  [Restriction of concurrent user login for multiple device and concurrent playing of the content on multiple devices. ](#restriction-of-user)
+  *  [Sending login OTP to all the 10 
+countries using SMPP protocol.](#sending-login-otp)
+  * [Data Bundle that can be purchased by the Airtel TV user at discounted rate.](#purchase-data-bundle
+)
+  * [Content like dislike](#user-rating-content-like-dislike
+)
+  * [Internationalization of Airtel TV](#internationalization-of-airteltv
+)
+  * [Accepted privacy policy tracking for a user](#user-privacy-policy-tracking
+)
+  * [Reports schedular for stakeholders.](#reports-schedular-for-stakeholders
+)
+  * [User Whitelisting for Airtel TV](#user-whitelisting
+)
+  * [User Login flow for Rwanda](#user-login-flow-for-rwanda
+)
+* End to end integration of [Erosnow](https://erosnow.com/) with [Airtel TV](https://play.google.com/store/apps/details?id=tv.africa.streaming&hl=en_US&gl=US), and have delivered enhancements related to content providers like Silverrock, [Docubay](https://www.docubay.com/), [Vubiquity](https://www.vubiquity.com/).[(Details)](#erosnow-integration-with-airteltv
+)
+* Tracked the time taken by all the [Airtel TV](https://play.google.com/store/apps/details?id=tv.africa.streaming&hl=en_US&gl=US) Backend APIs, and improved the response time for all the APIs.[(Details)](#time-tracking-for-backend-apis
+)
+* Have done backend dev environment migration; servers, databases and all the Backend services.[(Details)](#dev-server-migration
+)
 * Continuously worked on bug fixing, memory leaks, and small features.
 
 ### [Cisco](https://www.cisco.com/)
@@ -48,3 +58,29 @@ Mysore, Hyderabad, India – May 2015 – July 2016
 * Trained in J2EE and Automation Testing.
 * Worked on 2 projects; Infosys Directory database query enhancement, manual testing for a client.
  
+
+## Work at [Datami](https://www.datami.com/) 
+
+### Restriction of user
+
+### Sending Login OTP
+
+### Purchase Data Bundle
+
+### User rating content like dislike
+
+### Internationalization of AirtelTV
+
+### User privacy policy tracking
+
+### Reports schedular for stakeholders
+
+### User whitelisting
+
+### User login flow for Rwanda
+
+### Erosnow integration with AirtelTV
+
+### Time tracking for Backend APIs
+
+### Dev server migration
