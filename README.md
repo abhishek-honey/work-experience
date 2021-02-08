@@ -61,7 +61,7 @@ Mysore, Hyderabad, India – May 2015 – July 2016
 
 ## Work at [Datami](https://www.datami.com/) 
 
-### Restriction of user
+### Restriction of concurrent same users
 
 ### Sending Login OTP
 
@@ -84,3 +84,7 @@ Mysore, Hyderabad, India – May 2015 – July 2016
 ### Time tracking for Backend APIs
 
 ### Dev server migration
+
+## [Work in AWS](https://github.com/abhishek-honey/aws)
+
+[EC2](https://github.com/abhishek-honey/aws/tree/main/EC2)
